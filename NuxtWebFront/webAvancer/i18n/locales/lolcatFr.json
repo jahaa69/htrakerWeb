@@ -1,0 +1,49 @@
+{
+  "common": {
+    "ok": "OKAI",
+    "cancel": "NOPE",
+    "yes": "YAAS",
+    "no": "NAH"
+  },
+  "navigation": {
+    "home": "MAISON DU CHAT",
+    "about": "KÉSA CÉ",
+    "contact": "PARLE AU HUMAIN"
+  },
+  "auth": {
+    "login": "ENTRE DANS LA BOÎTE",
+    "logout": "SORT DE LA BOÎTE",
+    "email": "ADRESSE MÉOW",
+    "password": "MOT DE PASSE SECRET DU CHAT"
+  },
+  "messages": {
+    "welcome": "BIENVENUE HUMAIN, INSTALLE TOI",
+    "loading": "ÇA MOULINE… PATIENCE",
+    "description": "REGARDE TON JEU, FIXE DES TRUCS ET DEVIENS MEILLEUR, MIAOU."
+  },
+  "buttons": {
+    "submit": "ENVOIE LE TRUC",
+    "reset": "REFAIS TOUT",
+    "dashboard": "TABLEAU DU CHAT",
+    "login": "ENTRER",
+    "setGoals": "METTRE DES OBJECTIFS",
+    "viewStats": "VOIR LES CHIFFRES",
+    "bibliotheque": "PILE DE JEUX"
+  },
+  "titles": {
+    "dashboard": "TABLEAU DU CHAT",
+    "profile": "FICHE DU HUMAIN",
+    "settings": "RÉGLAGES MAGIQUES",
+    "statistics": "STATS IMPORTANTES",
+    "goals": "OBJECTIFS SÉRIEUX",
+    "bibliotheque": "PILE DE JEUX"
+  },
+  "descriptions": {
+    "dashboard": "TOUT CE QUE TU FAIS DANS TON JEU.",
+    "profile": "CHANGE TES INFOS, HUMAIN.",
+    "settings": "FAIS ÇA COMME TU VEUX.",
+    "statistics": "ON REGARDE TES HABITUDES.",
+    "goals": "TU DIS CE QUE TU VEUX FAIRE ET TU LE FAIS.",
+    "bibliotheque": "TOUS TES JEUX AU MÊME ENDROIT."
+  }
+}

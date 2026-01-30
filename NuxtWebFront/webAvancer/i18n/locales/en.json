@@ -1,0 +1,50 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email address",
+    "password": "Password"
+  },
+  "messages": {
+    "welcome": "Welcome to our application",
+    "loading": "Loading…",
+    "description": "Analyze your gameplay, set goals, and see your progress."
+  },
+    "buttons": {
+        "submit": "Submit",
+        "reset": "Reset",
+        "dashboard": "Dashboard",
+        "login": "Login",
+        "setGoals": "Set Goals",
+        "viewStats": "View Stats",
+        "bibliotheque": "Library"
+    },
+  "titles": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "statistics": "Statistics",
+    "goals": "Goals",
+    "bibliotheque": "Library"
+  },
+  "descriptions": {
+    "dashboard": "Overview of your gaming activity.",
+    "profile": "Manage your personal information.",
+    "settings": "Customize your experience.",
+    "statistics": "Analyze your gaming habits.",
+    "goals": "Set and track your gaming goals.",
+    "bibliotheque": "Access your game collection."
+
+  }
+}

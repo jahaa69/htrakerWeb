@@ -1,0 +1,49 @@
+{
+  "common": {
+    "ok": "OKAI",
+    "cancel": "NOPE",
+    "yes": "YAAS",
+    "no": "NAH"
+  },
+  "navigation": {
+    "home": "CAT HOME",
+    "about": "WUT DIS",
+    "contact": "TALK TO HOOMAN"
+  },
+  "auth": {
+    "login": "ENTER DA BOX",
+    "logout": "LEAVE DA BOX",
+    "email": "MEOW MAIL",
+    "password": "SECRET CAT WORD"
+  },
+  "messages": {
+    "welcome": "WELCOME HOOMAN",
+    "loading": "STILL THINKIN…",
+    "description": "CHECK UR GAME, SET GOALS N GET STRONK."
+  },
+  "buttons": {
+    "submit": "SEND DA STUFF",
+    "reset": "DO OVER",
+    "dashboard": "CAT BOARD",
+    "login": "LOGIN",
+    "setGoals": "SET DA GOALS",
+    "viewStats": "SEE NUMBERS",
+    "bibliotheque": "GAME PILE"
+  },
+  "titles": {
+    "dashboard": "CAT BOARD",
+    "profile": "HOOMAN PROFILE",
+    "settings": "MAGIC SETTINGS",
+    "statistics": "IMPORTANT NUMBERS",
+    "goals": "SERIOUS GOALS",
+    "bibliotheque": "GAME PILE"
+  },
+  "descriptions": {
+    "dashboard": "ALL UR GAME STUFF IN ONE PLACE.",
+    "profile": "CHANGE UR HOOMAN INFO.",
+    "settings": "MAKE IT FEEL NICE.",
+    "statistics": "WATCH HOW U PLAY.",
+    "goals": "SET GOALS N DO THEM.",
+    "bibliotheque": "ALL UR GAMES HERE."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe"
+  },
+  "messages": {
+    "welcome": "Bienvenue sur notre application",
+    "loading": "Chargement en cours…",
+    "description": "Analysez votre gameplay, fixez des objectifs et suivez vos progrès."
+  },
+  "buttons": {
+    "submit": "Soumettre",
+    "reset": "Réinitialiser",
+    "dashboard": "Tableau de bord",
+    "login": "Connexion",
+    "setGoals": "Fixer des objectifs",
+    "viewStats": "Voir les statistiques",
+    "bibliotheque": "Bibliothèque"
+  },
+  "titles": {
+    "dashboard": "Tableau de bord",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "statistics": "Statistiques",
+    "goals": "Objectifs",
+    "bibliotheque": "Bibliothèque"
+  },
+  "descriptions": {
+    "dashboard": "Vue d'ensemble de votre activité de jeu.",
+    "profile": "Gérez vos informations personnelles.",
+    "settings": "Personnalisez votre expérience.",
+    "statistics": "Analysez vos habitudes de jeu.",
+    "goals": "Fixez et suivez vos objectifs de jeu.",
+    "bibliotheque": "Accédez à votre collection de jeux."
+  }
+}
